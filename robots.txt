@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinosbarriere-lille.com/
+Sitemap: https://casinosbarriere-lille.com/sitemap.xml
